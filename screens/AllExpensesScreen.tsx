@@ -3,6 +3,6 @@ import React from 'react'
 
 export const AllExpensesScreen = () => {
   return (
-    <ExpensesOutput expenses={[]} expensesPeriod="All Expenses" />
+    <ExpensesOutput expenses={[]} expensesPeriod="Total" />
   )
 }

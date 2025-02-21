@@ -4,6 +4,6 @@ import { Text } from 'react-native'
 
 export const RecentExpensesScreen = () => {
   return (
-    <ExpensesOutput expenses={[]} expensesPeriod="Recent Expenses" />
+    <ExpensesOutput expenses={[]} expensesPeriod="Last 7 Days" />
   )
 }
